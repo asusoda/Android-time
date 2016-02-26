@@ -1,2 +1,0 @@
-Android Studio is installed.
-Github is installed.
